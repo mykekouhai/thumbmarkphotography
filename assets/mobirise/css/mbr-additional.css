@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 0.8em;
+  color: #cccccc;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #cccccc;
+}
+#dropdown-menu-2btn-a .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-a .nav .link,
+#dropdown-menu-2btn-a .dropdown-item {
+  font-size: 0.8em;
+  color: #cccccc;
+}
+#dropdown-menu-2btn-a .navbar,
+#dropdown-menu-2btn-a .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-a .dropdown-menu a:hover,
+#dropdown-menu-2btn-a .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-a .navbar-toggler {
+  color: #cccccc;
+}
+#msg-box3-d .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-d .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-e .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-e .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+
+#dropdown-menu-2btn-f .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-f .nav .link,
+#dropdown-menu-2btn-f .dropdown-item {
+  font-size: 0.8em;
+  color: #cccccc;
+}
+#dropdown-menu-2btn-f .navbar,
+#dropdown-menu-2btn-f .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-f .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-f .dropdown-menu a:hover,
+#dropdown-menu-2btn-f .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-f .navbar-toggler {
+  color: #cccccc;
+}
+#msg-box4-h .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-h .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-h .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-h .mbr-article P {
+  color: #7c706b;
+  font-size: 11px;
+  font-family: 'Ubuntu', sans-serif;
+}
